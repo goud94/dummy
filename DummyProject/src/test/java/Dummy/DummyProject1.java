@@ -13,6 +13,7 @@ public class DummyProject1 {
 		driver.get("https://www.saucedemo.com/");
 		driver.manage().window().maximize();
 		Reporter.log("Dummy is executed",true);
+		driver.close();
 	}
 
 }
