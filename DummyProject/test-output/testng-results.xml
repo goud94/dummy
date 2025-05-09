@@ -5,12 +5,12 @@
       <![CDATA[Dummy is executed]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-05-09T09:21:11 IST" name="Default suite" finished-at="2025-05-09T09:21:39 IST" duration-ms="28347">
+  <suite started-at="2025-05-09T11:36:46 IST" name="Default suite" finished-at="2025-05-09T11:36:51 IST" duration-ms="4687">
     <groups>
     </groups>
-    <test started-at="2025-05-09T09:21:11 IST" name="Default test" finished-at="2025-05-09T09:21:39 IST" duration-ms="28347">
+    <test started-at="2025-05-09T11:36:46 IST" name="Default test" finished-at="2025-05-09T11:36:51 IST" duration-ms="4687">
       <class name="Dummy.DummyProject1">
-        <test-method signature="addDummy()[pri:0, instance:Dummy.DummyProject1@5c6648b0]" started-at="2025-05-09T09:21:11 IST" name="addDummy" finished-at="2025-05-09T09:21:39 IST" duration-ms="28258" status="PASS">
+        <test-method signature="addDummy()[pri:0, instance:Dummy.DummyProject1@5c6648b0]" started-at="2025-05-09T11:36:47 IST" name="addDummy" finished-at="2025-05-09T11:36:51 IST" duration-ms="4599" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Dummy is executed]]>
